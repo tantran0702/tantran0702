@@ -1,4 +1,4 @@
-#TAN TRAN PROFILE#
+#TAN TRAN PROFILE
 
 Hi, I am **Tan Tran**, 
 * currently working at The Friedkin Group in Houston, TX as an End User Computing Architect.
